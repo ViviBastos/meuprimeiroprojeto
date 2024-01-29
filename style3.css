@@ -1,0 +1,68 @@
+body {
+    width: 700px;
+    align-items: center;
+    margin: auto;
+}
+
+
+figure {
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    width: 512px;
+}
+
+.tftlogo {
+    background-color: #f7f4f4;
+}
+
+
+#line {
+    width: 700px;
+    height: 0px;
+    border: 1px solid #FFB6C1;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+}
+
+span {
+    color: #FFB6C1;
+}
+
+p {
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+    font-weight: normal;
+}
+
+
+.icone {
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    width: 50px;
+    opacity: 0.4;
+}
+
+a {
+    font-family: 'Josefin Sans', sans-serif;
+    text-decoration: none;
+    color: #FFB6C1;
+}
+
+footer {
+    margin: 10px auto;
+    padding: 0px;
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
